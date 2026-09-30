@@ -2,10 +2,7 @@
 
 <p align="center"><em>It's always the last one.</em></p>
 
-<p align="center">
-  Small ideas, taken further than strictly necessary.<br/>
-  Side projects by <a href="https://github.com/ahmadAlMezaal">Ahmad Al Mezaal</a>, mostly built after hours and mostly running on a Raspberry Pi.
-</p>
+<p align="center">Small ideas, taken further than strictly necessary.</p>
 
 ---
 
